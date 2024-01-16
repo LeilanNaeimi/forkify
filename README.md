@@ -1,4 +1,4 @@
-#forkify
+# forkify
 
 * [live](https://forkifydine.netlify.app/)
 
